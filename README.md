@@ -48,3 +48,14 @@ export default tseslint.config({
   },
 })
 ```
+
+# Install
+
+```angular2html
+npm install axios
+```
+
+```angular2html
+npm install @reduxjs/toolkit
+```
+
