@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+
+
+# Zustand DOCs
+https://zustand.docs.pmnd.rs/getting-started/introduction
+
+```npm install zustand```
